@@ -13,14 +13,14 @@
 	left: 10px;
 	font-family: 'Lobster', cursive;
 	font-size: 40px;
-	color: #ffee00;
+	color: #ffe600;
 }
 .gareji_logo_1{
 	position: absolute;
 	top: 33px;
 	left: 190px;
 	font-size: 12px;
-	color: #ffee00;
+	color: #ffe600;
 }
 .about{
 	font-family: 'Lobster', cursive;
@@ -28,7 +28,7 @@
 	font-size: 20px;
 	top: 50px;
 	right: 440px;
-	color: #ffee00;
+	color: #ffe600;
 	transition: 0.5s;
 }
 .about:hover{
@@ -49,7 +49,7 @@
 	font-size: 20px;
 	top: 50px;
 	right: 310px;
-	color: #ffee00;
+	color: #ffe600;
 	transition: 0.5s;
     animation-fill-mode: forwards;
 }
@@ -59,7 +59,7 @@
 	font-size: 20px;
 	top: 50px;
 	right: 185px;
-	color: #ffee00;
+	color: #ffe600;
 	transition: 0.5s;
     animation-fill-mode: forwards;
 }
@@ -69,7 +69,7 @@
 	font-size: 20px;
 	top: 50px;
 	right: 50px;
-	color: #ffee00;
+	color: #ffe600;
 	transition: 0.5s;
     animation-fill-mode: forwards;
 }
@@ -777,4 +777,8 @@
 	top: 50px;
 	font-family: 'Lobster', cursive;
 	right: 10px;
+}
+.map_io{
+	position: absolute;
+	top: -100px;
 }
